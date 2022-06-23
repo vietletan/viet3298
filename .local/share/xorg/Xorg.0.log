@@ -576,3 +576,15 @@ X Protocol Version 11, Revision 0
 [ 21715.747] (**) VirtualBox USB Tablet: (accel) acceleration threshold: 4
 [ 21715.749] (II) event5  - VirtualBox USB Tablet: is tagged by udev as: Mouse
 [ 21715.749] (II) event5  - VirtualBox USB Tablet: device is a pointer
+[ 27345.643] (EE) 
+Fatal server error:
+[ 27345.643] (EE) systemd-logind disappeared (stopped/restarted?)
+[ 27345.643] (EE) 
+[ 27345.643] (EE) 
+Please consult the The X.Org Foundation support 
+	 at http://wiki.x.org
+ for help. 
+[ 27345.643] (EE) Please also check the log file at "/home/vietle/.local/share/xorg/Xorg.0.log" for additional information.
+[ 27345.643] (EE) 
+[ 27346.074] (EE) systemd-logind: ReleaseControl failed: Unknown object '/org/freedesktop/login1/session/_32'.
+[ 27346.074] (EE) Server terminated with error (1). Closing log file.

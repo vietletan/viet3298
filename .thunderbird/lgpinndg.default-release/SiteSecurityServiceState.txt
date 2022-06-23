@@ -1,0 +1,3 @@
+www.mozilla.org:HSTS	0	19166	1671694760798,1,1,2
+www.mozilla.org^partitionKey=%28http%2Cmozilla.org%29:HSTS	0	19166	1671694758323,1,1,2
+location.services.mozilla.com:HSTS	0	19166	1687506449116,1,1,2
